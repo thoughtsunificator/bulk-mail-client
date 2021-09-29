@@ -1,6 +1,6 @@
 # bulk-mail-client
 
-An alternative way to bcc bulk mailing.
+Bulk email client.
 
 - Schedule mail every X milliseconds
 - Set up an interval

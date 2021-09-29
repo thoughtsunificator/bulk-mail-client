@@ -1,0 +1,30 @@
+{
+	"template": "campaign-1",
+	"csv": [
+		{
+			"path": "./data/example1.csv",
+			"locals": {
+				"foo": true
+			}
+		},
+		{
+			"path": "./data/example2.csv"
+		}
+	],
+	"pause_timeout": 500,
+	"retry_count": 5,
+	"retry_timeout": 5000,
+	"hours": [4, 5],
+	"interval": 50000,
+	"from": "test@test.com",
+	"rate": 25,
+	"transport": {
+		"host": "",
+		"port": 465,
+		"secure": true,
+		"auth": {
+			"user": "",
+			"pass": ""
+		}
+	}
+}

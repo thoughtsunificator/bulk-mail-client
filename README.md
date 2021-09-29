@@ -12,7 +12,7 @@ Bulk email client.
 
 ### Installation
 
-- npm install
+- ``npm install``
 
 ### Prerequisites
 
@@ -20,4 +20,4 @@ Bulk email client.
 
 ### Usage
 
-- npm start
+- ``npm start``
